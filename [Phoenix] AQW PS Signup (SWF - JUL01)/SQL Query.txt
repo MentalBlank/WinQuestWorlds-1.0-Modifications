@@ -1,0 +1,4 @@
+INSERT INTO `wqw_equipment` (`id`, `itemID`, `sLink`, `sElmt`, `bStaff`, `iRng`, `iDPS`, `bCoins`, `sES`, `sType`, `iCost`, `iRty`, `iLvl`, `sIcon`, `iQty`, `iEnh`, `iHrs`, `sFile`, `iStk`, `sDesc`, `bUpg`, `sName`, `bTemp`, `sFaction`, `iClass`, `FactionID`, `iReqRep`, `iReqCP`) VALUES
+(0, 94, 'Priest', 'None', 0, 10, 100, 0, 'ar', 'Class', 0, 0, 1, 'iiclass', 1, 1, 50, 'priest3_skin.swf', 1, '.', 0, 'Priest', 0, 'None', 0, 1, 0, 0),
+(844024659, 92, 'Mage', 'None', 0, 10, 100, 0, 'ar', 'Class', 0, 0, 1, 'iiclass', 1, 1, 50, 'mage3_skin.swf', 1, '', 0, 'Mage', 0, 'None', 0, 1, 0, 0),
+(141815186, 96, 'Rogue', 'None', 0, 10, 100, 0, 'ar', 'Class', 0, 0, 1, 'iiclass', 1, 1, 50, 'rogue_skin.swf', 1, '.', 0, 'Rogue', 0, 'None', 0, 1, 0, 0);
